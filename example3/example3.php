@@ -13,5 +13,7 @@ echo '<h1>'.$mytest2.'</h1>';
 echo '<h1>'.$mytest2.'</h1>';
 echo '<h1>'.$mytest2.'</h1>';
 
+echo 'EL PRIMER CAMBIO DE LA HISTORIA.';
+
 phpinfo();
 ?>
